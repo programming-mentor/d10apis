@@ -1,20 +1,20 @@
 # Drupal 10 Complete APIs for headless Drupal
 
 # Steps
-Download Drupal & set Project:
+# Download Drupal & set Project:
             Composer create-project drupal/recommended-project my_site_name
-Install Drupal:
-Download and install the required modules
+# Install Drupal:
+# Download and install the required modules
 
 
-Configure the modules
-Create API Consumer user
-List down all the required APIs
-Enable APIs
-Set permissions
-Install Postman client
-Setup Postman authentication
-Call APIs from Postman
+# Configure the modules
+# Create API Consumer user
+# List down all the required APIs
+# Enable APIs
+# Set permissions
+# Install Postman client
+# Setup Postman authentication
+# Call APIs from Postman
 
 
 # HTTP methods used in REST API
