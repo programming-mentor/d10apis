@@ -9,8 +9,11 @@ Composer create-project drupal/recommended-project my_site_name
 3. Download and install the required modules
 
 composer require 'drupal/restui:^1.21' 
+
 composer require 'lcobucci/jwt:^4.1'
+
 composer require league/oauth2-server
+
 composer require 'drupal/simple_oauth:^5.2'
 
 4. Configure the modules
